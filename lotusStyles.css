@@ -5,12 +5,9 @@
 
 body {
     font-family: "Minecraft Ten";
-    color:black
-}
-
-::backdrop {
-    background: #601866;
-}
+    color:black;
+    background:#601866;
+} 
 
 .main {
     font-size: 20px;
