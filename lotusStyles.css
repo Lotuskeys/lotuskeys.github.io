@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Minecraft Ten";
-    src: url("minecraft-ten-font.ttf");
+    src: url("MinecraftTen-VGORe.ttf");
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 
 .main {
     font-size: 20px;
-    color:rgb(255, 180, 246)
+    color:rgb(255, 180, 246);
     max-width: 600px;
     margin: auto;
 }
