@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Minecraft Ten";
+    src: url("minecraft-ten-font.ttf");
+}
+
+body {
+    font-family: "Minecraft Ten";
+    color:black
+}
+
+::backdrop {
+    background: #601866;
+}
+
+.main {
+    font-size: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.subheading {
+    font-size: 40px;
+}
