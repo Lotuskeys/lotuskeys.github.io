@@ -14,8 +14,43 @@ body {
     color:rgb(255, 180, 246);
     max-width: 600px;
     margin: auto;
+    text-align: center;
 }
 
 .subheading {
     font-size: 40px;
+    text-align: center;
+}
+
+.box {
+    background-color:#83228c;
+    border: 3px double #a92cb4;
+    border-radius: 0px;
+    font-size: 20px;
+    color:#cf72d8;
+    text-align: center;
+    margin: auto;
+    transition:all 0.2s ease;
+    display: block;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 700px;
+}
+
+.box:hover {
+    background-color:#621769;
+}
+
+.box:active {
+    background-color:#4b0f4e;
+}
+
+.button-group {
+    display: grid;
+    justify-items: center;
+    gap: 10px;
+    margin: 20px;
+    grid-template-columns: center repeat(3, 100px);
 }

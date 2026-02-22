@@ -1,3 +1,4 @@
 # lotuskeys.github.io
 
-yo im feinberg
+This is a personal project to learn basics of html
+I'm just having some fun
